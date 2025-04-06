@@ -79,7 +79,7 @@ Here are a few features planned for future versions:
 
 Feel free to reach out if you're interested in contributing or want to give feedback:
 
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/tahura-hayath-483397243/)
+- **LinkedIn:** [my profile](https://www.linkedin.com/in/tahura-hayath-483397243/)
 - **Email:** tahurahayath0@gmail.com 
 
 ---
